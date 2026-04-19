@@ -1,20 +1,8 @@
 {
-  "status": 1,
-  "resources": [
-    {
-      "name": "assetfile.txt",
-      "crc32": "a1b2c3d4",
-      "size": 3580
-    },
-    {
-      "name": "models/bmwm4.dff",
-      "crc32": "f1e2d3c4",
-      "size": 21000000
-    },
-    {
-      "name": "models/bmwm4.txd",
-      "crc32": "1a2b3c4d",
-      "size": 1800000
-    }
+  "result": true,
+  "data": [
+    "assetfile.txt",
+    "models/bmwm4.dff",
+    "models/bmwm4.txd"
   ]
 }
