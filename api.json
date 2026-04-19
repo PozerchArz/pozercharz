@@ -1,8 +1,6 @@
 {
-  "result": true,
-  "data": [
-    "assetfile.txt",
-    "models/bmwm4.dff",
-    "models/bmwm4.txd"
-  ]
+  "status": "success",
+  "data": {
+    "url": "https://pozercharz.github.io/pozercharz/assetfile.txt"
+  }
 }
